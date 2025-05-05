@@ -1,0 +1,12 @@
+[package]
+name = "lolrepl"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+hex = "0.4"
+jiff = "0.2.14"
+md5 = "0.7"
+
+[dev-dependencies]
+rand = "0.9"
